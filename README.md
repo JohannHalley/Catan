@@ -1,4 +1,5 @@
 # Catan
+试用[卡坦岛计数器](https://johannhalley.github.io/Catan/)。  
 这个图片展示的是一个用于《卡坦岛》桌游的手牌计数器。界面上提供了资源统计的功能，列出了游戏中五种资源：木材、砖块、羊毛、小麦和矿石。每种资源旁边都有一个数值选择器，用于输入玩家当前拥有的资源数量。  
 <img width="243" alt="image" src="https://github.com/JohannHalley/Catan/assets/39282218/56c678a8-bb2f-44bd-97a2-3a5185e286eb">
 
